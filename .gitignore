@@ -1,6 +1,7 @@
 .DS_Store
 build/
 composer.phar
+phpunit.phar
 composer.lock
 docs/json/**/*.json
 vendor/
